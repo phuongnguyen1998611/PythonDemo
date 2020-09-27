@@ -7,3 +7,4 @@ print(list(tap_hop))
 
 tap_hop_nhan_doi = list(map(lambda a:a*2, danh_sach))
 print(tap_hop_nhan_doi)
+#toi muon thay doi
